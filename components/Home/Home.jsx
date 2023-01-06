@@ -19,7 +19,7 @@ const HomeSection = () => {
                 <h2 className={Style.heroTxt}>
                     Welcome to prowess NFT Marketplace!, we offer a wide <span className={Style.wrap}>selection of unique and one-of-a-kind NFTs for you to browse and purchase.</span>
                 </h2>
-
+                
                 <div className={Style.buttons}>
                     <Button blue={true} btnName='Browse Now' handleClick={()=> {}}/>
                     <Button btnName='Create NFT' handleClick={()=> {}}/>
